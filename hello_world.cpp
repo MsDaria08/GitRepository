@@ -1,6 +1,7 @@
 #include <iostream>
 usingnamespace std;
 int main(){
-cout << "Hello world" << endl;
+string a;
+cout << "Hello world from @" << a << endl;
 return 0;
 }
