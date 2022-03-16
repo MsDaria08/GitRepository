@@ -1,7 +1,7 @@
 #include <iostream>
-usingnamespace std;
+//добавление пользовательских данных
 int main(){
-string a;
-cout << "Hello world from @" << a << endl;
+std::string a;
+std::cout << "Hello world from @" << a << std::endl;
 return 0;
 }
